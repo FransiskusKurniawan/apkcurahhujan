@@ -22,6 +22,9 @@ class SensorData extends Model
         'current_baterai',
         'voltage_baterai',
         'status_pompa',
+        'status_pompa2',
         'status',
+        'jitter',
+        'delay',
     ];
 }
